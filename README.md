@@ -1,4 +1,4 @@
-### Bem-vindo(a) ao meu perfil 👋
+### Bem-vindo(a) ao meu perfil 👽
 
 - 🔭 Tenho conhecimento em C, JavaScript, TypeScript e Delphi
 - 🌱 Buscando aprimorar o conhecimento nas linguagens anteriores 😁
